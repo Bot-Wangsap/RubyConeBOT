@@ -27,12 +27,12 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/l4c1f2r'
-global.syt = 'https://youtu.be/ALQiRR1nzLI'
-global.sgh = 'https://github.com/Turu-bangun'
-global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
-global.swa = 'wa.me/6282214729677'
-global.swb = 'https://discord.gg/4HvezMAw'
+global.sig = '-'
+global.syt = 'https://youtu.be/RubyCone B16'
+global.sgh = 'https://github.com/Botzzzs533'
+global.sgc = 'https://chat.whatsapp.com/I5GNmFLBXG25dwNlNSSdZ1'
+global.swa = 'wa.me/628981614707'
+global.swb = 'https://discord.gg/KkF2V9qm'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
@@ -44,10 +44,10 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283863727413'
-global.nomorown = '6282214729677'
-global.namebot = 'NexBotz'
-global.nameown = 'PutraModz'
+global.nomorbot = '62895321601382'
+global.nomorown = '628981614707'
+global.namebot = 'RubyCone BOT'
+global.nameown = 'B16'
 
 
 /*============== STAFF ==============*/
